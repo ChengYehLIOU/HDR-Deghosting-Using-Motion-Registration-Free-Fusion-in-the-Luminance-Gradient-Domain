@@ -1,5 +1,8 @@
-# MRFGF-HDR
-Motion-Registration-Free Gradient Fusion for High Dynamic Range Deghosting
+# HDR Deghosting Using Motion-Registration-Free Fusion in the Luminance Gradient Domain
+HDR Deghosting Using Motion-Registration-Free Fusion in the Luminance Gradient Domain
+Published in VCIP2020. You may refer to the following link for the detail of this paper.
+
+https://ieeexplore.ieee.org/document/9301844
 
 ### Overview
 This package is an implementation of the of the paper HDR Deghosting Using Motion-Registration-Free Fusion in Luminance Gradient Domain, by Cheng-Yeh Liou, Cheng-Yen Chuang and Yi-Chang Lu.
@@ -26,16 +29,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Citation
 Please cite the following work if you use this package.
 ```javascript
-@article{,
-  title={HDR Deghosting Using Motion-Registration-Free Fusion in Luminance Gradient Domain},
-  author={XXX},
-  journal={XXX},
-  volume={XX},
-  number={XX},
-  pages={XXXXXX},
-  year={XXXX},
-  publisher={XXXXXXX}
-
+@inproceedings{liou2020hdr,
+  title={HDR Deghosting Using Motion-Registration-Free Fusion in the Luminance Gradient Domain},
+  author={Liou, Cheng-Yeh and Chuang, Cheng-Yen and Huang, Chia-Han and Lu, Yi-Chang},
+  booktitle={2020 IEEE International Conference on Visual Communications and Image Processing (VCIP)},
+  pages={499--502},
+  year={2020},
+  organization={IEEE}
 }
 ```
 
