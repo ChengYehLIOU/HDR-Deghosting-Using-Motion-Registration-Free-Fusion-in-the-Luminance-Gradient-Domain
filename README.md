@@ -1,5 +1,6 @@
 # HDR Deghosting Using Motion-Registration-Free Fusion in the Luminance Gradient Domain
-HDR Deghosting Using Motion-Registration-Free Fusion in the Luminance Gradient Domain
+HDR Deghosting Using Motion-Registration-Free Fusion in the Luminance Gradient Domain.
+
 Published in VCIP2020. You may refer to the following link for the detail of this paper.
 
 https://ieeexplore.ieee.org/document/9301844
